@@ -15,4 +15,5 @@ while 1:
     game = input("Please 'N' if you like to exit. Press any other key to continue: ").lower()
 
     if game == "n":
+        print("Have a nice day!")
         break
