@@ -1,14 +1,18 @@
 import alphabets
 
 
+def encoding(message, number):
+    shifted_location = []
+    current_location = []
+    encoded_message = ""
 
-def encoding(message,number):
-    input_message_list=list(message)
+    input_message_list = list(message)
+
     for letter in input_message_list:
-        i=0
-        if letter == alphabets.alphabet:
-            i+=1
-            current_location = alphabets.alphabet.index().append
-            shifted_location =current_location+number
-    for location in shifted_location
-        print(alphabets.alphabet[location])
+        current_location.append(alphabets.alphabet.index(letter))
+    for shift in current_location:
+        shifted_location.append(shift + number)
+
+    for position in shifted_location:
+        encoded_message += alphabets.alphabet[position]
+    return encoded_message
