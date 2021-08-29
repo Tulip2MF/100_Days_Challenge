@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="699205fe-eaad-4c4b-b331-b3d8ea21320a" name="Changes" comment="new file">
-      <change afterPath="$PROJECT_DIR$/day_015/MenuItem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_015/coffee_machine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_015/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_015/money_management.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_015/user_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_017/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_017/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_017/question_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_017/quiz_brain.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_015/store_room.py" beforeDir="false" afterPath="$PROJECT_DIR$/day_015/store_room.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -335,7 +333,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630161746614</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="new file">
+      <created>1630219453125</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1630219453125</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
