@@ -1,9 +1,91 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
   <diagram name="Page-1" id="NE7Clt-sXLgLIIL7PGzL">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="42JIp9Z6Ayq3_wSqQytF-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="42JIp9Z6Ayq3_wSqQytF-1" target="42JIp9Z6Ayq3_wSqQytF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="42JIp9Z6Ayq3_wSqQytF-1" value="Welcome message" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="30" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="42JIp9Z6Ayq3_wSqQytF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="42JIp9Z6Ayq3_wSqQytF-2" target="42JIp9Z6Ayq3_wSqQytF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="42JIp9Z6Ayq3_wSqQytF-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="42JIp9Z6Ayq3_wSqQytF-2" target="42JIp9Z6Ayq3_wSqQytF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="42JIp9Z6Ayq3_wSqQytF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="42JIp9Z6Ayq3_wSqQytF-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="42JIp9Z6Ayq3_wSqQytF-2" value="Get Name" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="42JIp9Z6Ayq3_wSqQytF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="42JIp9Z6Ayq3_wSqQytF-8" target="42JIp9Z6Ayq3_wSqQytF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="42JIp9Z6Ayq3_wSqQytF-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="42JIp9Z6Ayq3_wSqQytF-3" target="42JIp9Z6Ayq3_wSqQytF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="42JIp9Z6Ayq3_wSqQytF-3" value="Get Bid" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="140" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="42JIp9Z6Ayq3_wSqQytF-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="42JIp9Z6Ayq3_wSqQytF-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="85" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="42JIp9Z6Ayq3_wSqQytF-4" value="Bid Dictionary" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="85" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="42JIp9Z6Ayq3_wSqQytF-8" value="Convert bid to int" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="42JIp9Z6Ayq3_wSqQytF-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="42JIp9Z6Ayq3_wSqQytF-15" target="42JIp9Z6Ayq3_wSqQytF-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="42JIp9Z6Ayq3_wSqQytF-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="42JIp9Z6Ayq3_wSqQytF-15" target="42JIp9Z6Ayq3_wSqQytF-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="42JIp9Z6Ayq3_wSqQytF-15" value="Loop through each name and bid" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="42JIp9Z6Ayq3_wSqQytF-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="42JIp9Z6Ayq3_wSqQytF-16" target="42JIp9Z6Ayq3_wSqQytF-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="42JIp9Z6Ayq3_wSqQytF-16" value="Create List of Names" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="195" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="42JIp9Z6Ayq3_wSqQytF-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="42JIp9Z6Ayq3_wSqQytF-17" target="42JIp9Z6Ayq3_wSqQytF-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="42JIp9Z6Ayq3_wSqQytF-17" value="Create List of Bids" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="195" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="42JIp9Z6Ayq3_wSqQytF-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="42JIp9Z6Ayq3_wSqQytF-20" target="42JIp9Z6Ayq3_wSqQytF-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="42JIp9Z6Ayq3_wSqQytF-20" value="create for loop to loop through each value in the list" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="280" y="270" width="380" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="42JIp9Z6Ayq3_wSqQytF-21" value="Get first value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="42JIp9Z6Ayq3_wSqQytF-22" value="Compare first value with the second" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="42JIp9Z6Ayq3_wSqQytF-23" value="Is second value larger than first?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="505" width="90" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="42JIp9Z6Ayq3_wSqQytF-24" value="Exchange the position of both first and second values both in bid and names" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="42JIp9Z6Ayq3_wSqQytF-27" value="After full loop run, create the dictionary again with the higherst and lowest bid" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="770" width="186" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
